@@ -1,73 +1,7 @@
-# Welcome to your Lovable project
+The Public Distribution System (PDS) in India ensures food security for millions of citizens, but the current process of purchasing commodities from ration shops faces major challenges. Long queues, transportation difficulties, manual record-keeping, and malpractices such as under-supply or diversion of goods cause inconvenience, time loss, and reduced transparency. In Tamil Nadu alone, nearly 7 crore people rely on ration cards, while across India more than 80 crore citizens are covered under the National Food Security Act (NFSA), emphasizing the need for a more efficient and secure system.
 
-## Project info
+To address these issues, we propose a Smart Ration Distribution System, a digital platform that simplifies and secures the ration purchasing process. Users log in with their ration card number and mobile OTP, and linked family members are displayed. Biometric authentication ensures accurate identification. A smart dashboard lists available commodities such as rice, sugar, dhal, oil, and wheat along with previous purchase history. Users can select items, specify quantities, confirm their address, and pay via UPI, card, or cash.
 
-**URL**: https://lovable.dev/projects/61122860-7990-41a7-9b79-9a711508f3b2
+A key innovation is biometric authentication at delivery, where the delivery agent carries a portable fingerprint device to ensure that only the rightful beneficiary receives the goods. This prevents fraud, eliminates malpractice, and ensures accountability. The system also provides e-receipts, real-time stock updates, and delivery tracking, guaranteeing transparency.
 
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/61122860-7990-41a7-9b79-9a711508f3b2) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/61122860-7990-41a7-9b79-9a711508f3b2) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+By leveraging digital technology, the solution reduces waiting times, increases accessibility for elderly and differently-abled citizens, and improves trust in the distribution system. This model has the potential to transform ration distribution into a modern, transparent, and citizen-friendly process, ensuring fair access to essential commodities.
